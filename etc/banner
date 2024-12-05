@@ -1,34 +1,3 @@
-#!/bin/bash
-
-# Coloring
-NOCOLOR='\033[0m'
-RED='\033[0;31m'
-GREEN='\033[0;32m'
-ORANGE='\033[0;33m'
-BLUE='\033[0;34m'
-PURPLE='\033[0;35m'
-CYAN='\033[0;36m'
-LIGHTGRAY='\033[0;37m'
-DARKGRAY='\033[1;30m'
-LIGHTRED='\033[1;31m'
-LIGHTGREEN='\033[1;32m'
-YELLOW='\033[1;33m'
-LIGHTBLUE='\033[1;34m'
-LIGHTPURPLE='\033[1;35m'
-LIGHTCYAN='\033[1;36m'
-WHITE='\033[1;37m'
-
-# Banner
-clear
-echo -e "${GREEN}
-            ██╗░░░░░██╗███╗░░██╗███████╗██╗░░██╗"
-echo -e "${GREEN}            ██║░░░░░██║████╗░██║██╔════╝╚██╗██╔╝"
-echo -e "${GREEN}            ██║░░░░░██║██╔██╗██║█████╗░░░╚███╔╝░"
-echo -e "${GREEN}            ██║░░░░░██║██║╚████║██╔══╝░░░██╔██╗░"
-echo -e "${GREEN}            ███████╗██║██║░╚███║███████╗██╔╝╚██╗"
-echo -e        "${RED}            ╚══════╝╚═╝╚═╝░░╚══╝╚══════╝╚═╝░░╚═╝ ${NOCOLOR}"
-echo -e "          ${GREEN}            𝙇𝙄𝙉𝙀𝙓 𝙊𝙁𝙁𝙄𝘾𝙀𝘼𝙇${NOCOLOR}"
-echo -e "----------------------------------------------------------------------------"
-
-
-echo -e "${YELLOW}THIS TOOL ENABLES YOU TO OPEN GAME PAK AND OBB."
+z="
+";mBz='╗██║';Xz='LE='\''';Tz='='\''\0';MCz='𝙄𝘾';XBz='════';PBz='███╗';eBz='░░╚█';xBz='╝░░╚';nz='[1;3';fz='DARK';XCz='OOL ';iz=';30m';Sz='BLUE';UBz='░██║';ICz='�𝙄�';Jz='N='\''\';Lz='0;32';Pz='\033';Fz='RED=';pz='YELL';cz='TGRA';iBz='══╝░';tBz='  ╚═';rBz='${RE';az=';36m';Qz='[0;3';ECz='   $';qBz='   "';dBz='║███';FBz='echo';QCz='"---';uz='TPUR';jBz='░░██';HCz='   �';OBz='████';tz='1;34';OCz='𝙇${';JBz='}';YCz='ENAB';ez='0;37';Rz='3m'\''';jz='TRED';Dz='3[0m';FCz='{GRE';LBz='░░░░';BBz='WHIT';Mz='m'\''';ZCz='LES ';VCz='W}TH';oz='2m'\''';lBz=' ███';wz='3[1;';Kz='033[';GBz=' -e ';WBz='║██╔';wBz='░░╚═';vBz='╝╚═╝';yz='TCYA';Cz=''\''\03';WCz='IS T';ACz='{NOC';KCz='� 𝙊';qz='OW='\''';gBz='░"';NCz='𝙀𝘼';dz='Y='\''\';Oz='GE='\''';bCz='TO O';PCz='LOR}';BCz='OLOR';TBz=' ██║';gz='GRAY';Hz='31m'\''';Gz='3[0;';bBz='██╔█';CCz='}"';SCz='-"';hCz='."';RBz='}   ';Vz=';34m';EBz='r';gCz=' OBB';CBz='1;37';QBz='"';Bz='LOR=';Iz='GREE';JCz='�𝙀�';dCz='GAME';LCz='𝙁𝙁';sBz='D}  ';MBz='██╗█';Uz='33[0';lz='TGRE';sz='E='\''\';SBz='    ';pBz='╗"';uBz='═╝╚═';cCz='PEN ';DCz='"   ';Yz='5m'\''';Ez=''\''';nBz='██║░';KBz='██╗░';cBz='█╗██';oBz='╚███';bz='LIGH';GCz='EN} ';ABz='1;36';fBz='██╔╝';rz='TBLU';TCz='"${Y';aBz='╝"';Zz='CYAN';mz='EN='\''';hz='33[1';vz='PLE=';Wz='PURP';kz=';31m';YBz='╝╚██';aCz='YOU ';UCz='ELLO';VBz='╗░██';eCz=' PAK';RCz='----';NBz='░██╗';kBz='╔██╗';xz='35m'\''';IBz='REEN';hBz='██║╚';yBz='═╝ $';fCz=' AND';HBz='"${G';Nz='ORAN';ZBz='╗██╔';DBz='clea';Az='NOCO';
+eval "$Az$Bz$Cz$Dz$Ez$z$Fz$Cz$Gz$Hz$z$Iz$Jz$Kz$Lz$Mz$z$Nz$Oz$Pz$Qz$Rz$z$Sz$Tz$Uz$Vz$Ez$z$Wz$Xz$Pz$Qz$Yz$z$Zz$Tz$Uz$az$Ez$z$bz$cz$dz$Kz$ez$Mz$z$fz$gz$Tz$hz$iz$Ez$z$bz$jz$Tz$hz$kz$Ez$z$bz$lz$mz$Pz$nz$oz$z$pz$qz$Pz$nz$Rz$z$bz$rz$sz$Kz$tz$Mz$z$bz$uz$vz$Cz$wz$xz$z$bz$yz$Jz$Kz$ABz$Mz$z$BBz$sz$Kz$CBz$Mz$z$DBz$EBz$z$FBz$GBz$HBz$IBz$JBz$z$KBz$LBz$MBz$KBz$NBz$OBz$PBz$KBz$NBz$QBz$z$FBz$GBz$HBz$IBz$RBz$SBz$SBz$TBz$LBz$UBz$OBz$VBz$WBz$XBz$YBz$ZBz$aBz$z$FBz$GBz$HBz$IBz$RBz$SBz$SBz$TBz$LBz$UBz$bBz$cBz$dBz$KBz$eBz$fBz$gBz$z$FBz$GBz$HBz$IBz$RBz$SBz$SBz$TBz$LBz$UBz$hBz$OBz$WBz$iBz$jBz$kBz$gBz$z$FBz$GBz$HBz$IBz$RBz$SBz$SBz$lBz$OBz$mBz$nBz$oBz$dBz$OBz$ZBz$YBz$pBz$z$FBz$GBz$SBz$qBz$rBz$sBz$SBz$SBz$tBz$XBz$uBz$vBz$wBz$uBz$XBz$uBz$xBz$yBz$ACz$BCz$CCz$z$FBz$GBz$DCz$SBz$ECz$FCz$GCz$SBz$SBz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$OCz$Az$PCz$QBz$z$FBz$GBz$QCz$RCz$RCz$RCz$RCz$RCz$RCz$RCz$RCz$RCz$RCz$RCz$RCz$RCz$RCz$RCz$RCz$RCz$RCz$SCz$z$FBz$GBz$TCz$UCz$VCz$WCz$XCz$YCz$ZCz$aCz$bCz$cCz$dCz$eCz$fCz$gCz$hCz"
